@@ -1,0 +1,8 @@
+{
+  "name": "Sweet Bites",
+  "description": "Offline Cake & Dessert Recipes with step-by-step baking mode, ingredients checklist, serving calculator, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
